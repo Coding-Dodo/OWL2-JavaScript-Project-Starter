@@ -1,0 +1,23 @@
+{
+  "name": "owl-vite-javascript-project-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "eslint": "^8.33.0",
+    "eslint-config-prettier": "^8.6.0",
+    "postcss": "^8.4.21",
+    "prettier": "^2.8.4",
+    "tailwindcss": "^3.2.6",
+    "vite": "^4.1.0"
+  },
+  "dependencies": {
+    "@odoo/owl": "2.0.5"
+  }
+}
