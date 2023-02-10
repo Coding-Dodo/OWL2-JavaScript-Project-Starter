@@ -14,7 +14,7 @@ const ROOT_TEMPLATE = xml/*xml*/ `
                 OWL 2 - Vite - Tailwind App Starter Project
             </a>
             <div class="flex w-1/2 justify-end content-center">
-                <a class="inline-block text-center h-10 p-2 md:h-auto md:p-4" href="https://github.com/Coding-Dodo/OWL-JavaScript-Tailwind-Project-Starter">
+                <a class="inline-block text-center h-10 p-2 md:h-auto md:p-4" href="https://github.com/Coding-Dodo/OWL2-JavaScript-Project-Starter">
                     <img class="w-2/6 mx-auto lg:mr-0" src="github-logo.svg"/>
                 </a>
             </div>
